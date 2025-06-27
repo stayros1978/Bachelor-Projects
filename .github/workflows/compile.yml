@@ -1,5 +1,5 @@
 name: C Compiler
-on: [push]  # Τρέχει κάθε φορά που κάνεις push
+on: [push]  
 
 jobs:
   build:
